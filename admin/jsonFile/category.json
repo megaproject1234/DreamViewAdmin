@@ -1,0 +1,49 @@
+[
+    {
+        "id":12,
+        "categoryName":"Furniture",
+        "categoryDescription":"All Type of Furniture Materials",
+        "creationDate":"2022-11-17 20:10:45",
+        "updationDate":"17-11-2022 08:11:09 PM"
+    },
+    
+    {
+        "id":13,
+        "categoryName":"Fashion",
+        "categoryDescription":"Fashionable clothing must convey the impression of distinction, excellence, originality.",
+        "creationDate":"2022-11-17 20:13:29",
+        "updationDate":"2022-11-17 20:13:29"
+    },
+    
+    {
+        "id":14,
+        "categoryName":"Home Appliances",
+        "categoryDescription":"The major appliances used in every household include refrigerators, mixer grinder, grinder, gas stove, pressure cooker, TVs, air conditioner.",
+        "creationDate":"2022-11-17 20:16:07",
+        "updationDate":"17-11-2022 08:16:14 PM"
+    },
+    
+    {
+        "id":15,
+        "categoryName":"Decoration",
+        "categoryDescription":"All Types of Decoration Materials.",
+        "creationDate":"2022-11-17 20:18:02",
+        "updationDate":"2022-11-17 20:18:02"
+    },
+    
+    {
+        "id":16,
+        "categoryName":"Home Gym",
+        "categoryDescription":"Home Gyms keep improving in quality and sophistication.",
+        "creationDate":"2022-11-17 20:20:06",
+        "updationDate":"2022-11-17 20:20:06"
+    },
+    
+    {
+        "id":24,
+        "categoryName":"Electronics",
+        "categoryDescription":"All Types of Electronics",
+        "creationDate":"2022-11-26 11:55:06",
+        "updationDate":"2022-11-26 11:55:06"
+    }
+]
